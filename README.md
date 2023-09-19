@@ -1,1 +1,1 @@
-# tc1004.so
+# Mi primera clase aprendiendo Github
